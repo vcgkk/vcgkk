@@ -3,8 +3,16 @@
 
 <h3 align="left">proficient languages:</h3>
 
-(https://go-skill-icons.vercel.app/api/icons?i=js,html,css,wasm)
+<p align="left"> 
+  <a href="https://github.com/vcgkk">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cs,cpp,python,luau,lua,assembly"> 
+  </a> 
+</p>
 
+<h3 align="left">Languages that I know at a basic level:</h3>
 
-
-<h3 align="center">I will be posting most of my projects on this github</h3>
+<p align="left"> 
+  <a href="https://github.com/vcgkk">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,golang,"> 
+  </a> 
+</p>
