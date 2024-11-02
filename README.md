@@ -16,3 +16,11 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,golang,"> 
   </a> 
 </p>
+
+<h3 align="left">Tools i use:</h3>
+
+<p align="left"> 
+  <a href="https://github.com/vcgkk">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,stackoverflow,photoshop,git"> 
+  </a> 
+</p>
