@@ -9,7 +9,7 @@
   </a> 
 </p>
 
-<h3 align="left">Languages that I know at a basic level:</h3>
+<h3 align="left">languages that i know at a basic level:</h3>
 
 <p align="left"> 
   <a href="https://github.com/vcgkk">
@@ -17,7 +17,7 @@
   </a> 
 </p>
 
-<h3 align="left">Tools i use:</h3>
+<h3 align="left">tools i use:</h3>
 
 <p align="left"> 
   <a href="https://github.com/vcgkk">
