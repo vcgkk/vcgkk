@@ -13,7 +13,7 @@
 
 <p align="left"> 
   <a href="https://github.com/vcgkk">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,golang,"> 
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,golang,js,"> 
   </a> 
 </p>
 
